@@ -38,6 +38,7 @@ labels/
 splits/
 cache/
 caches/
+history/
 
 # Experiment outputs and logs
 runs/
